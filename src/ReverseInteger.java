@@ -1,5 +1,6 @@
 
 //https://leetcode.com/problems/reverse-integer/submissions/1827964007/
+
 public class ReverseInteger {
     void main() {
         IO.println(reverse(123));
